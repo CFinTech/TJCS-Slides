@@ -21,18 +21,18 @@
 
 
 
-## Slides 模板
+## General Slides 模板
 
-- 2023 年版 [[templete](./src)]
-- 2025 年版 [[templete](./src)]
+- 2023 年版 [[templete](./templete)]
+- 2025 年版 [[templete](./templete)]
 
 
 
 ## Slides 素材
 
-- 科技类主题 slides
-- 思政类主题 slides
-- 娱乐类主题 slides
+- 科技类主题 slides [[src](./src_tech)]
+- 思政类主题 slides [[src](./src_political)]
+- 社科类主题 slides [[src](./src_art)]
 
 
 
