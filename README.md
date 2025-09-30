@@ -48,17 +48,17 @@
 >
 > - 失败的团队合作**源于**失败的管理，混乱的目标以及不统一的习惯
 
-- step1：负责人做好模板和大纲，在每页 slide 下批注本页的内容 & 分工
-- step2：组员根据批注画 slides
-- step3：负责人验收并修改，在每页 sllide 下批注 comment
-- step4：组员根据 comment 修改 slides
-- step5：负责人整合并交付
+- **流程建议：**
+  1. **负责人**：先完成模板与大纲，在每页 slide 下**批注本页内容与分工** 
+  2. **组员**：根据批注完成各自负责的页面
+  3. **负责人**：统一**验收并修改**，在每页 slide 下**批注 comment**
+  4. **组员**：根据 comment 做二次修改与润色
+  5. **负责人**：**整合版本、统一风格与导出**，完成交付
 
 
 
 ## Slides Examples
 
-- 计算机网络 report [[src]()]
-- 思政课汇报 [[src]()]
-- 媒介课汇报 [[src]()]
+- 计算机网络 report [[src](https://docs.google.com/presentation/d/1MMaWVSWc0wh4Wd9CLLw6uaxbzwxiiMBt/edit?usp=drive_link&ouid=108805123057098880640&rtpof=true&sd=true)]
+- [TODO] more slides are being prepared!
 
