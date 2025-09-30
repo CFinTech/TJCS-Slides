@@ -19,6 +19,12 @@
 
 
 
+> **做一页好的 Slide 的平均时长：2h+**
+>
+> **在有素材、模板的基础上，做一页好的 Slide 的平均时长：<1h**
+>
+> **Templete is all you need!**
+
 
 
 ## General Slides 模板
@@ -38,15 +44,21 @@
 
 ## 合作指南
 
+> 大部分本科课程汇报是组队完成的，事实上，遵循合适的合作策略就可以提升团队画 slides 的效率
+>
+> - 失败的团队合作**源于**失败的管理，混乱的目标以及不统一的习惯
 
-
-
+- step1：负责人做好模板和大纲，在每页 slide 下批注本页的内容 & 分工
+- step2：组员根据批注画 slides
+- step3：负责人验收并修改，在每页 sllide 下批注 comment
+- step4：组员根据 comment 修改 slides
+- step5：负责人整合并交付
 
 
 
 ## Slides Examples
 
-- 计算机网络 report
-- 思政课汇报
-- 媒介课
+- 计算机网络 report [[src]()]
+- 思政课汇报 [[src]()]
+- 媒介课汇报 [[src]()]
 
