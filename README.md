@@ -15,13 +15,21 @@
 </div>
 
 
+> [!IMPORTANT]
+>
+> 这些素材不适用于任何与正经科研相关的场合
+
+> [!NOTE]
+>
 > **做一页好的 Slide 的平均时长：2h+**
->
 > **在有素材、模板的基础上，做一页好的 Slide 的平均时长：<1h**
->
 > **Templete is all you need!**
 
 工科专业的本科生往往关注技术难度、项目完整性，而忽略 persentation 的重要性，尤其对于还没有正式做过科研的同学来说，做好 slides 是一件极其困难的事情。因此，我整理这个仓库来分享我自己做好的 slides 模板，合作经验，一些 principle，以及我过往制作的可供直接使用的 slides
+
+![image-20251002144929348](./img/README.assets/image-20251002144929348.png)
+
+> **我的 Ph.D. 申请 slides 封面**
 
 
 
@@ -59,5 +67,7 @@
 ## Slides Examples
 
 - 计算机网络 report [[src](https://docs.google.com/presentation/d/1MMaWVSWc0wh4Wd9CLLw6uaxbzwxiiMBt/edit?usp=drive_link&ouid=108805123057098880640&rtpof=true&sd=true)]
+  - **Contributor:** [Kaiwen Tuo](https://cfintech.github.io/)
+
 - [TODO] more slides are being prepared!
 
