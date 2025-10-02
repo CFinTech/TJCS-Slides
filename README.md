@@ -22,7 +22,9 @@
 > [!NOTE]
 >
 > **做一页好的 Slide 的平均时长：2h+**
+>
 > **在有素材、模板的基础上，做一页好的 Slide 的平均时长：<1h**
+>
 > **Templete is all you need!**
 
 工科专业的本科生往往关注技术难度、项目完整性，而忽略 persentation 的重要性，尤其对于还没有正式做过科研的同学来说，做好 slides 是一件极其困难的事情。因此，我整理这个仓库来分享我自己做好的 slides 模板，合作经验，一些 principle，以及我过往制作的可供直接使用的 slides
@@ -33,7 +35,9 @@
 
 
 
-## General Slides 模板
+## Slides 模板
+
+> 如果你希望修改模板，可以在幻灯片母版处修改
 
 - 2023 年版 [[templete](./templete)]
 - 2025 年版 [[templete](./templete)]
@@ -41,6 +45,8 @@
 
 
 ## Slides 素材
+
+> 成套的 slides 素材，便于完成相关主题的 slides
 
 - 科技类主题 slides [[src](./src_tech)]
 - 思政类主题 slides [[src](./src_political)]
@@ -56,15 +62,17 @@
 
 **流程建议：**
 
-1. **负责人**：先完成模板与大纲，在每页 slide 下**批注本页内容与分工** 
+1. **负责人**：先完成模板与大纲，在每页 slide 下批注本页内容与分工 
 2. **组员**：根据批注完成各自负责的页面
-3. **负责人**：统一**验收并修改**，在每页 slide 下**批注 comment**
+3. **负责人**：统一验收并修改，在每页 slide 下批注 comment
 4. **组员**：根据 comment 做二次修改与润色
-5. **负责人**：**整合版本、统一风格与导出**，完成交付
+5. **负责人**：整合版本、统一风格与导出，完成交付
 
 
 
 ## Slides Examples
+
+> 个人绘制 / 合作绘制的 slides 真实案例
 
 - 计算机网络 report [[src](https://docs.google.com/presentation/d/1MMaWVSWc0wh4Wd9CLLw6uaxbzwxiiMBt/edit?usp=drive_link&ouid=108805123057098880640&rtpof=true&sd=true)]
   - **Contributor:** [Kaiwen Tuo](https://cfintech.github.io/)
