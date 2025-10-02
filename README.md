@@ -40,7 +40,7 @@
 > 如果你希望修改模板，可以在幻灯片母版处修改
 
 - 2023 年版 [[templete](./templete)]
-- 2025 年版 [[templete](./templete)]
+- ⭐2025 年版 [[templete](./templete)]
 
 
 
@@ -54,7 +54,19 @@
 
 
 
-## 合作指南
+## Tools
+
+>  我在绘制 slides 时频繁用到的工具
+
+- 字体 [[google](https://fonts.google.com/)]
+- 代码美化 [[carbon](https://carbon.now.sh/)]
+- 图标库 [[icon](https://www.iconfont.cn/)]
+- 去除背景[[removebg](https://www.remove.bg/zh)]
+- 图片 [[pexels](https://www.pexels.com/zh-cn/)]
+
+
+
+## 合作
 
 > 大部分本科课程汇报是组队完成的，事实上，遵循合适的合作策略就可以提升团队画 slides 的效率
 >
@@ -72,10 +84,10 @@
 
 ## Slides Examples
 
-> 个人绘制 / 合作绘制的 slides 真实案例
+> 个人绘制 / 合作绘制的 slides 真实案例，请使用 Powerpoint 打开
 
 - 计算机网络 report [[src](https://docs.google.com/presentation/d/1MMaWVSWc0wh4Wd9CLLw6uaxbzwxiiMBt/edit?usp=drive_link&ouid=108805123057098880640&rtpof=true&sd=true)]
   - **Contributor:** [Kaiwen Tuo](https://cfintech.github.io/)
 
-- [TODO] more slides are being prepared!
+- [TODO] more slides are being prepared!  **Welcome to be a Contributor**!
 
